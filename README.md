@@ -1,6 +1,6 @@
 # Roads Subsurface in 3 Dimensions (RSI3D)
 
-The repository contains various scripts and a database-structure used to create a 3D model of the roads in Griffiersveld in Apeldoorn. The 3D model is created to make circular renovation and maintenance of the roads possible.
+The repository contains various scripts and a database-structure used to create a 3D model of the roads in Griffiersveld in Apeldoorn. The 3D model is created to make circular renovation and maintenance of the roads possible. The input data was partly provided in Dutch, resulting in coding in both English and Dutch.
 
 <p align="center">
   <img src="https://github.com/RonaldVisser/Roads-Subsurface-in-3-Dimensions-RSI3D/blob/main/logo_cityloops.svg" height="120" title="Logo CityLoops" alt="Logo of the CityLoops project">

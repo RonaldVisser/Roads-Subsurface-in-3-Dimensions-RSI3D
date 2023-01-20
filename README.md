@@ -7,4 +7,4 @@ The repository contains various scripts and a database-structure used to create 
   <img src="https://github.com/RonaldVisser/Roads-Subsurface-in-3-Dimensions-RSI3D/blob/main/logo-ec-en.svg" height="80" title="Logo EC" alt="Logo of the European Commission">
 </p>
 
-This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 821033 (see also https://doi.org/10.3030/821033)
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 821033 (see  https://doi.org/10.3030/821033)

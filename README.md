@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/581506362.svg)](https://zenodo.org/badge/latestdoi/581506362)
+
 # Roads Subsurface in 3 Dimensions (RSI3D)
 
 The repository contains various scripts and a database-structure used to create a 3D model of the roads in Griffiersveld in Apeldoorn. The 3D model is created to make circular renovation and maintenance of the roads possible. The input data was partly provided in Dutch, resulting in coding in both English and Dutch.

@@ -6,6 +6,6 @@ This project has received funding from the European Union's Horizon 2020 researc
 ![Logo EC](https://github.com/RonaldVisser/Roads-Subsurface-in-3-Dimensions-RSI3D/blob/main/logo-ec-en.svg)
 
 <p align="center">
-  <img src="blob/main/logo-ec-en.svg" width="350" title="hover text">
+  <img src="https://github.com/RonaldVisser/Roads-Subsurface-in-3-Dimensions-RSI3D/blob/main/logo-ec-en.svg" width="350" title="Logo EC">
   <img src="blob/main/logo-ec-en.svg" width="350" alt="accessibility text">
 </p>

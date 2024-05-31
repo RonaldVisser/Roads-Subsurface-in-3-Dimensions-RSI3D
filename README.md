@@ -11,3 +11,7 @@ The repository contains various scripts and a database-structure used to create 
 </p>
 
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 821033 (see  https://doi.org/10.3030/821033)
+
+The final report is published online: https://cityloops.eu/resource?t=D2.6_Circular_CDW_in_Apeldoorn_Demonstration_report
+
+All output from the project is found here: https://cordis.europa.eu/project/id/821033/results
